@@ -5,7 +5,6 @@ A compact hexagon-shaped open-source hardware badge designed for learning PCB de
 This project is part of a hands-on learning journey in hardware development, embedded systems, and robotics exploration.
 
 ---
-
 # 🎯 Purpose
 
 This badge is designed to help understand and practice:
@@ -33,7 +32,7 @@ The focus is not complexity, but learning the complete hardware creation cycle.
 
 # 📁 Project Structure
 
-```text
+
 hardware/
     schematic.pdf
     pcb-layout.png
@@ -43,8 +42,8 @@ images/
     front.jpg
     back.jpg
     render.png
+    
 ---
-
 # 🙏 Credits & Inspiration
 
 This project was inspired by educational PCB badge designs shared by makers in the electronics community, including content from Edison Science Corner.
