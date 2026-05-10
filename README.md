@@ -34,14 +34,14 @@ The focus is not complexity, but learning the complete hardware creation cycle.
 
 
 hardware/
-    schematic.pdf
-    pcb-layout.png
-    gerbers.zip
+schematic.pdf
+pcb-layout.png
+gerbers.zip
 
 images/
-    front.jpg
-    back.jpg
-    render.png
+front.jpg
+back.jpg
+render.png
     
 ---
 # 🙏 Credits & Inspiration
