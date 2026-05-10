@@ -38,11 +38,12 @@ hardware/
     schematic.pdf
     pcb-layout.png
     gerbers.zip
+    BOM.csv
 
 images/
     front.jpg
     back.jpg
-    render.png
+    
 ```
 # 🙏 Credits & Inspiration
 
