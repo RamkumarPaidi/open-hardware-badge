@@ -43,14 +43,17 @@ images/
     front.jpg
     back.jpg
     render.png
+---
 
-#  🙏 Credits & Inspiration
+# 🙏 Credits & Inspiration
 
 This project was inspired by educational PCB badge designs shared by makers in the electronics community, including content from Edison Science Corner.
 
 The circuit concept is based on commonly used open electronic badge designs and adapted as part of a personal learning project in PCB design and embedded systems.
 
 Special thanks to the open-source hardware community for making electronics education accessible and practical.
+
+---
 
 # ⚖️ License
 
