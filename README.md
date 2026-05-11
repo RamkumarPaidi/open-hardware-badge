@@ -1,4 +1,4 @@
-# 🔷 Open Hardware Hex Badge
+# ⚙️Open Hardware Hex Badge
 
 A compact hexagon-shaped open-source hardware badge designed for learning PCB design, electronics, and embedded systems.
 
